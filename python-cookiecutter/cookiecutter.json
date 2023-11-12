@@ -1,4 +1,0 @@
-{
-  "day": "1",
-  "__directory_name": "day-{{ cookiecutter.day }}"
-}
